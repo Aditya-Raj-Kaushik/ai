@@ -1,0 +1,13 @@
+pandas
+numpy 
+scikit-learn 
+nltk 
+matplotlib 
+seaborn 
+fastapi 
+uvicorn 
+pickle-mixin 
+jupyter 
+notebook 
+wordcloud 
+regex
